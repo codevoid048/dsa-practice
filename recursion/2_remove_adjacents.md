@@ -34,7 +34,8 @@ Use a recursive function to remove adjacent duplicates. In each call, iterate th
 
 ## Code
 
-### C++
+<details>
+<summary>C++</summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -73,7 +74,10 @@ int main() {
 }
 ```
 
-### Python
+</details>
+
+<details>
+<summary>Python</summary>
 
 ```python
 def recurse(s):
@@ -101,7 +105,10 @@ if __name__ == "__main__":
     solve()
 ```
 
-### Java
+</details>
+
+<details>
+<summary>Java</summary>
 
 ```java
 import java.util.*;
@@ -138,6 +145,8 @@ public class Solution {
     }
 }
 ```
+
+</details>
 
 ## Input/Output Example
 ```

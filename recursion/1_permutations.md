@@ -32,7 +32,8 @@ Use backtracking to generate all permutations. Start from the first index, swap 
 
 ## Code
 
-### C++
+<details>
+<summary>C++</summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -73,7 +74,10 @@ signed main(){
 }
 ```
 
-### Python
+</details>
+
+<details>
+<summary>Python</summary>
 
 ```python
 def permute(nums):
@@ -94,7 +98,10 @@ nums = [1,2,3]
 print(permute(nums))
 ```
 
-### Java
+</details>
+
+<details>
+<summary>Java</summary>
 
 ```java
 import java.util.*;
@@ -138,6 +145,8 @@ public class Solution {
     }
 }
 ```
+
+</details>
 
 ## Input/Output Example
 ```
